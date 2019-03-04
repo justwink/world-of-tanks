@@ -13,6 +13,6 @@ clone项目后双击根目录下index.html文件启动游戏
 # date
 2016 - 2017
 
-#extra
+# extra
 - 老巢部分被改为铁墙
 - 子弹发射当前为单发
