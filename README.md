@@ -1,21 +1,20 @@
-# world-of-tanks
-坦克世界网页版
+### `world-of-tanks`
+**The  web version of `World of Tanks`**
 
-# 启动
+### Bootup
 ```bash
 # yarn chrome 💐
 yarn start
 ```
 
-# options
-*键盘操作*
-- 空格发射子弹
-- 上下左右移动
-- 重复Enter暂停/继续
+### Keyboard shortcuts
+- Shot: `Blankspace`
+- Move: `↑ ↓ ← →`
+- Pause/Continue: `Enter`
 
-# date
-2016 - 2017
+### Timeline
+2016/12 - 2017/3
 
-# extra
-- 老巢部分被改为铁墙
-- 子弹发射当前为单发
+### Mode
+- The lair section has been changed to an `iron wall`.
+- The firing mode is `single shot`·
